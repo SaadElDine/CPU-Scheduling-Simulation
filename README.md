@@ -1,4 +1,4 @@
-![image](https://github.com/SaadElDine/CPU-Scheduling-Simulation/assets/113860522/f66e8be8-9c2c-4dc7-a094-03778477e093)# CPU-Scheduling-Simulation
+# CPU-Scheduling-Simulation
 CPU scheduling simulation using java, Multilevel Feedback Queue implemented using 3 Queues using RR round Robbin algorithm and First Come First Serve (FCFS) algorithm.
 
 ## Implementation:
