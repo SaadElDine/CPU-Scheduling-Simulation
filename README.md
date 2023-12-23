@@ -3,9 +3,9 @@ CPU scheduling simulation using java, Multilevel Feedback Queue implemented usin
 
 ## Implementation:
 - Multilevel Feedback Queue:
-  >> Queue 1: RoundRobbin (RR), quantum = 8 .
-  >> Queue 2: RoundRobbin (RR), quantum = 16.
-  >> Queue 3: First Come First Serve (FCFS).
+  - Queue 1: RoundRobbin (RR), quantum = 8 .
+  - Queue 2: RoundRobbin (RR), quantum = 16.
+  - Queue 3: First Come First Serve (FCFS).
 
 - CPU will serve Queue 1 by 50%
 - CPU will serve Queue 2 by 30%
